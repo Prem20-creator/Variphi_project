@@ -40,8 +40,8 @@ Query: "person carrying a bag near the entrance"
 ### 1. Clone / unzip
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/video-search.git
-cd video-search
+git clone https://github.com/Prem20-creator/Variphi_project.git
+cd Variphi_project
 ```
 
 ### 2. Create a virtual environment (recommended)
