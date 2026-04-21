@@ -1,0 +1,157 @@
+[
+  {
+    "query": "a trolly bag",
+    "results": [
+      {
+        "frame_id": "frame_000012",
+        "frame_path": "data\\frames\\frame_000012.jpg",
+        "timestamp_sec": 11.611,
+        "timestamp_hms": "00:00:11",
+        "score": 0.2702000141143799
+      },
+      {
+        "frame_id": "frame_000007",
+        "frame_path": "data\\frames\\frame_000007.jpg",
+        "timestamp_sec": 6.773,
+        "timestamp_hms": "00:00:06",
+        "score": 0.25279998779296875
+      },
+      {
+        "frame_id": "frame_000008",
+        "frame_path": "data\\frames\\frame_000008.jpg",
+        "timestamp_sec": 7.741,
+        "timestamp_hms": "00:00:07",
+        "score": 0.2522999942302704
+      },
+      {
+        "frame_id": "frame_000009",
+        "frame_path": "data\\frames\\frame_000009.jpg",
+        "timestamp_sec": 8.708,
+        "timestamp_hms": "00:00:08",
+        "score": 0.24869999289512634
+      },
+      {
+        "frame_id": "frame_000014",
+        "frame_path": "data\\frames\\frame_000014.jpg",
+        "timestamp_sec": 13.546,
+        "timestamp_hms": "00:00:13",
+        "score": 0.2451000064611435
+      },
+      {
+        "frame_id": "frame_000013",
+        "frame_path": "data\\frames\\frame_000013.jpg",
+        "timestamp_sec": 12.578,
+        "timestamp_hms": "00:00:12",
+        "score": 0.24210000038146973
+      },
+      {
+        "frame_id": "frame_000011",
+        "frame_path": "data\\frames\\frame_000011.jpg",
+        "timestamp_sec": 10.643,
+        "timestamp_hms": "00:00:10",
+        "score": 0.2371000051498413
+      },
+      {
+        "frame_id": "frame_000004",
+        "frame_path": "data\\frames\\frame_000004.jpg",
+        "timestamp_sec": 3.87,
+        "timestamp_hms": "00:00:03",
+        "score": 0.23510000109672546
+      },
+      {
+        "frame_id": "frame_000003",
+        "frame_path": "data\\frames\\frame_000003.jpg",
+        "timestamp_sec": 2.903,
+        "timestamp_hms": "00:00:02",
+        "score": 0.23090000450611115
+      },
+      {
+        "frame_id": "frame_000006",
+        "frame_path": "data\\frames\\frame_000006.jpg",
+        "timestamp_sec": 5.805,
+        "timestamp_hms": "00:00:05",
+        "score": 0.22849999368190765
+      }
+    ]
+  },
+  {
+    "query": "laptop",
+    "results": [
+      {
+        "frame_id": "frame_000006",
+        "frame_path": "data\\frames\\frame_000006.jpg",
+        "timestamp_sec": 5.805,
+        "timestamp_hms": "00:00:05",
+        "score": 0.30000001192092896
+      },
+      {
+        "frame_id": "frame_000005",
+        "frame_path": "data\\frames\\frame_000005.jpg",
+        "timestamp_sec": 4.838,
+        "timestamp_hms": "00:00:04",
+        "score": 0.2994000017642975
+      },
+      {
+        "frame_id": "frame_000013",
+        "frame_path": "data\\frames\\frame_000013.jpg",
+        "timestamp_sec": 12.578,
+        "timestamp_hms": "00:00:12",
+        "score": 0.2581000030040741
+      },
+      {
+        "frame_id": "frame_000004",
+        "frame_path": "data\\frames\\frame_000004.jpg",
+        "timestamp_sec": 3.87,
+        "timestamp_hms": "00:00:03",
+        "score": 0.257999986410141
+      },
+      {
+        "frame_id": "frame_000014",
+        "frame_path": "data\\frames\\frame_000014.jpg",
+        "timestamp_sec": 13.546,
+        "timestamp_hms": "00:00:13",
+        "score": 0.2533000111579895
+      }
+    ]
+  },
+  {
+    "query": "person laughing",
+    "results": [
+      {
+        "frame_id": "frame_000002",
+        "frame_path": "data\\frames\\frame_000002.jpg",
+        "timestamp_sec": 2.0,
+        "timestamp_hms": "00:00:02",
+        "score": 0.21089999377727509
+      },
+      {
+        "frame_id": "frame_000003",
+        "frame_path": "data\\frames\\frame_000003.jpg",
+        "timestamp_sec": 3.0,
+        "timestamp_hms": "00:00:03",
+        "score": 0.2092999964952469
+      },
+      {
+        "frame_id": "frame_000015",
+        "frame_path": "data\\frames\\frame_000015.jpg",
+        "timestamp_sec": 15.0,
+        "timestamp_hms": "00:00:15",
+        "score": 0.20829999446868896
+      },
+      {
+        "frame_id": "frame_000009",
+        "frame_path": "data\\frames\\frame_000009.jpg",
+        "timestamp_sec": 9.0,
+        "timestamp_hms": "00:00:09",
+        "score": 0.20800000429153442
+      },
+      {
+        "frame_id": "frame_000001",
+        "frame_path": "data\\frames\\frame_000001.jpg",
+        "timestamp_sec": 1.0,
+        "timestamp_hms": "00:00:01",
+        "score": 0.20759999752044678
+      }
+    ]
+  }
+]

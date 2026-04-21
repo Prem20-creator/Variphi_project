@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Data (large, generated at runtime)
+data/frames/
+data/uploaded_*
+
+# FAISS index (generated at runtime)
+index/faiss.index
+index/metadata.json
+
+# Results (can be committed if desired)
+# results/results.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# HuggingFace model cache
+~/.cache/huggingface/

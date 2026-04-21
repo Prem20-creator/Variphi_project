@@ -1,0 +1,16 @@
+# Core ML
+torch>=2.1.0
+transformers>=4.38.0
+Pillow>=10.0.0
+
+# Video processing
+opencv-python-headless>=4.8.0
+
+# Vector search
+faiss-cpu>=1.7.4
+
+# UI
+streamlit>=1.32.0
+
+# Utilities
+numpy>=1.24.0
