@@ -6,9 +6,21 @@
 
 ## Demo Video
 
-📺 _[Insert your YouTube / Google Drive link here after recording]_
+📺 [Watch Demo](https://drive.google.com/file/d/1nmZxdiDYG2SfBav86o-K_I3wzOkcV8Fk/view?usp=sharing)
 
 ---
+
+---
+
+## 🖼️ Preview
+
+### 🔹 Upload & Configuration UI
+![Upload UI](./assets/ui_upload.png)
+
+### 🔹 Search Results
+![Results UI](./assets/ui_results.png)
+
+--- 
 
 ## What It Does
 
